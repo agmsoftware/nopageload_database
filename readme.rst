@@ -1,7 +1,7 @@
 Baca dengan Teliti dan Seksama !
 
 ##################################
-Source Code : Codeigniter dan Ajax tanpa Page Load
+Source Code : Codeigniter dan Ajax tanpa Page Load + Database
 ##################################
 
 Silahkan pelajari source code ini untuk meningkatkan skill yang sudah anda miliki
@@ -19,7 +19,7 @@ bisa anda googling.
 Fitur
 ********
 
-Aplikasi ini hanya contoh untuk menunjukkan cara input data tanpa Page Load 
+Aplikasi ini hanya contoh untuk menunjukkan cara input data ke database tanpa Page Load 
 
 
 **********************
@@ -28,6 +28,7 @@ Tools
 
 | Codeigniter versi 3.1.0 
 | jQuery https://code.jquery.com/jquery-2.2.4.js
+| MySQL
 
 
 
